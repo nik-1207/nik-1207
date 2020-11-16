@@ -14,7 +14,7 @@
 <br>
 
 
-#### 🎓I am under graduate Student with full of creativity and hunger to knowledge💻. <br /> Beside Programming Exploring the advancement of technologies is my hobby🚀.
+#### 🎓I am under graduate Student with full of creativity and hunger for knowledge💻. <br /> Beside Programming Exploring the advancement of technologies is my hobby🚀.
 
 <br />
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
