@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Nikhil Mohan  👋</h1>
-<h3 align="left">A passionate ComputerScience Engineer Specilised Skills :-<br><br>
+<h3 align="left">A passionate ComputerScience Engineer Specialised in Skills :-<br><br>
 1.Android Developer<br>
 2.core Java<br>
 3.core Python<br>4.Data structures and algorithms<br>
