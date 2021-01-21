@@ -5,10 +5,10 @@
 3.core Python<br>4.Data structures and algorithms<br>
 5.Ethical Hacking and CyberSecurity<br>
 6.Firebase<br>
-7.Flutter<br>
-8.SQL<br> 
-9.Iot<br>
-10.Front-End Web Developer<br>
+7.Django<br>
+8.SQL and Mongo-db<br> 
+9.IIot<br>
+10.Web Developer<br>
 </h3>
 
 <br>
