@@ -66,11 +66,9 @@
 <img align="left" alt="Git" title="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="python" title="Python" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/download.jpg" />
 <img align="left" alt="java" title="Java" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/java.png" />
-<img align="left" alt="c" title="C" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/c.png" />
 <img align="left" alt="Android" title="Android" width="26px" src="https://raw.githubusercontent.com/nik-1207/nik-1207/main/iconfinder_android_317758.png" />
 <img align="left" alt="html5" title="HTML5" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/html.png" />
 <img align="left" alt="IOT" title="IOT" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/icons8-device-manager-50.png" />
-<img align="left" alt="Flutter" title="FLUTTER" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/icons8-flutter-48.png" />
 <img align="left" alt="firebase" title="Firebase" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/icons8-google-firebase-console-48.png" />
 <img align="left" alt="security" title="Security" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/icons8-security-time-50.png" />
 <img align="left" alt="SQL" title="SQL" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/icons8-sql-64.png" />
@@ -78,6 +76,7 @@
 <img align="left" alt="bootstrap" title="Bootstrap" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/bootstrap.png" />
 <img align="left" alt="Django" title="Django" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/django.png" />
 <img align="left" alt="mongo" title="Mongo-db" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/mongo.png" />
+![](https://komarev.com/ghpvc/?username=nik-1207)
 
 
 
