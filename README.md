@@ -76,7 +76,6 @@
 <img align="left" alt="bootstrap" title="Bootstrap" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/bootstrap.png" />
 <img align="left" alt="Django" title="Django" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/django.png" />
 <img align="left" alt="mongo" title="Mongo-db" width="26px" src="https://github.com/nik-1207/nik-1207/blob/main/mongo.png" />
-![](https://komarev.com/ghpvc/?username=nik-1207)
 
 
 
