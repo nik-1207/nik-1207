@@ -6,12 +6,12 @@
 5.Ethical Hacking and CyberSecurity<br>
 6.Firebase<br>
 7.Django<br>
-8.MERN stack<br> 
+8.MERN stack<br>
 9.IIot<br>
 10.Web Developer<br>
 11.Git and Github<br>
-12.SQL
-
+12.SQL<br>
+13.Next js
 </h3>
 
 <br>
