@@ -16,14 +16,14 @@
 <br>
 
 
-#### 🎓I am under graduate Student with full of creativity and hunger for knowledge💻. <br /> Beside Programming Exploring the advancement of technologies is my hobby🚀.
+#### 🎓I am under Fullstack developer with 1 year experience in React, Sql, Node, aws and other technologies.I am a learner and always trying to find opportunities to learn something about. <br /> Beside Programming Exploring the exploring of technologies is my hobby🚀.
 
 <br />
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=ecf05e47ut5pr45pj9m7x00dco0dgwmqq1so04zmjkqx6daz&rid=200.webp" width="400px" />
 
-- 🌱 I’m currently learning **<br>Android Applications, Front-End Technologies and<br> Competitive Programming**
+- 🌱 I’m currently working on  **<br>Front-End Technologies**
 
-- 👯 I’m looking to collaborate on **Android Development,<br> Software development and Full Stack Projects**
+- 👯 I’m looking to collaborate on **<br> Software development and Full Stack Projects**
 
 - 🤔 I’m looking for help with **learning anything new!**
 
