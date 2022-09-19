@@ -5,13 +5,12 @@
 3.core Python<br>4.Data structures and algorithms<br>
 5.Ethical Hacking and CyberSecurity<br>
 6.Firebase<br>
-7.Django<br>
-8.MERN stack<br>
-9.IIot<br>
-10.Web Developer<br>
-11.Git and Github<br>
-12.SQL<br>
-13.Next js
+7.MERN stack<br>
+8.IIot<br>
+9.Web Developer<br>
+10.Git and Github<br>
+11.SQL<br>
+12.Next js
 </h3>
 
 <br>
