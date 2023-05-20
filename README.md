@@ -10,7 +10,10 @@
 9.Web Developer<br>
 10.Git and Github<br>
 11.SQL<br>
-12.Next js
+12.Next js <br>
+13.D3 <br>
+14.apache E-charts
+  
 </h3>
 
 <br>
