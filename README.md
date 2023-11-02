@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@nik_1207" target="blank"><img src="https://img.shields.io/twitter/follow/@nik_1207?logo=twitter&style=for-the-badge" alt="@nik_1207" /></a> </p>
 
-- 🔭 I’m currently working on **Rust**
+- 🔭 I’m currently working on **Angular**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nik-1207](https://github.com/nik-1207)
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nik_1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nik_1207" height="30" width="40" /></a>
+<a href="https://twitter.com/nik_1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nik_1207" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-kashyap-1b85741ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-kashyap-1b85741ab" height="30" width="40" /></a>
 <a href="https://instagram.com/nmknikhilkashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nmknikhilkashyap" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nik-1207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nik-1207" height="30" width="40" /></a>
