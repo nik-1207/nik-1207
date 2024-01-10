@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@nik_1207" target="blank"><img src="https://img.shields.io/twitter/follow/@nik_1207?logo=twitter&style=for-the-badge" alt="@nik_1207" /></a> </p>
 
-- 🔭 I’m currently working on **Angular**
-
-- 🌱 I’m currently learning **Angular**
+- 🔭 I’m currently working on **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nik-1207](https://github.com/nik-1207)
 
