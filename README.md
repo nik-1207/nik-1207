@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mohan</h1>
 <h3 align="center">I am a Fullstack developer with 1.5 year of experience in React, SQL, Node, AWS, and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
 
+```
+What I cannot create, I do not understand — Richard Feynman.
+```
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik-1207&label=Profile%20views&color=0e75b6&style=flat" alt="nik-1207" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik-1207" alt="nik-1207" /></a> </p>
