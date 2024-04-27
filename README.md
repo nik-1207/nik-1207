@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mohan</h1>
-<h3 align="center">I am a Fullstack developer with 2+ year of experience in React, SQL, Node, AWS, and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
+<h3 align="center">I am a Fullstack developer with 2+ years of experience in React, SQL, Node, AWS, and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
 
 ```
 What I cannot create, I do not understand — Richard Feynman.
