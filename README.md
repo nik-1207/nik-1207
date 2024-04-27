@@ -19,7 +19,7 @@ What I cannot create, I do not understand — Richard Feynman.
 
 - 📫 How to reach me **nmknikhilkashyap@gmail.com**
 
-- 📄 Know about my experiences [https://nik-1207.github.io/resume/](https://nik-1207.github.io/resume/)
+- 📄 Know about my experiences [https://nik-1207.github.io/resume/](https://portfolio-c1134.web.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
