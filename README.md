@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mohan</h1>
-<h3 align="center">I am a Fullstack developer with 2+ years of experience in React, SQL, Node, AWS, and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
+<h3 align="center">I am a Fullstack developer with 3+ years of experience in React, SQL, Node, AWS, and other technologies. I am a constant learner and always try to find opportunities to learn something new. Besides programming, exploring new technologies is my hobby 🚀.</h3>
 
 ```
 What I cannot create, I do not understand — Richard Feynman.
@@ -19,7 +19,9 @@ What I cannot create, I do not understand — Richard Feynman.
 
 - 📫 How to reach me **nmknikhilkashyap@gmail.com**
 
-- 📄 Know about my experiences [https://nik-1207.github.io/resume/](https://portfolio-c1134.web.app/)
+- 💼 Know about my experiences [https://nik-1207.github.io/resume/](https://portfolio-c1134.web.app/)
+  
+- 📝 Checkout my articles https://medium.com/@nmknikhilkashyap
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
